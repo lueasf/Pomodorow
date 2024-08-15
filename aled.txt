@@ -1,0 +1,16 @@
+TAILWIND
+
+bg-slate-700 text-slate-100 pt-20 min-h-screen:
+bg-slate-700 : couleur de fond
+text-slate-100 : couleur du texte
+pt-20 : padding top de 20
+min-h-screen : hauteur minimum de l'écran
+
+max-w-xl mx-auto border border-slate-500 rounded p-10:
+max-w-xl : max-width de 36rem (576px) -> mx-auto le centre
+rounded : arrondir
+p-10 : padding de 10
+
+text-center text-3xl mb-8:
+mb-8 : margin bottom de 8
+changer la police : font-serif
