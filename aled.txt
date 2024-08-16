@@ -12,5 +12,17 @@ rounded : arrondir
 p-10 : padding de 10
 
 text-center text-3xl mb-8:
-mb-8 : margin bottom de 8
 changer la police : font-serif
+
+mr, ml, mt, mb : margin right, left, top, bottom
+
+text-lg : lg -> 1.125rem (18px)
+
+px-4 py-2 flex justify-center items-center mx-auto hover:bg-slate-400
+px-4 : padding gauche droite
+py-2 : padding haut bas
+flex : image a coté du texte
+justify-center : centrer horizontalement sur X
+items-center : centrer verticalement sur Y
+mx-auto : CENTRE LE BOUTON
+hover:bg-slate-400 : couleur de fond au hover
