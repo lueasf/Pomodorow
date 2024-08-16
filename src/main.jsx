@@ -13,4 +13,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 // console.log(store);
 
-// provider : composant qui permet de donner accès à l'ensemble de l'application à notre store.
+// provider :composant qui permet de donner accès à l'ensemble de l'application à notre store.
